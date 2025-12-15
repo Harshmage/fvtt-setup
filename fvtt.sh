@@ -1,7 +1,7 @@
 #!/bin/bash
 
-WEBHOST="vtt.harshmage.com"
-CONTACTEMAIL="bryan@harshmage.com"
+WEBHOST="mywebhost.com"
+CONTACTEMAIL="my@email.com"
 FVTTPATH="/usr/games/FoundryVTT"
 FVTTDATA="/usr/games/FoundryVTTData"
 OPTIONSFILE="$FVTTDATA/Config/options.json"
